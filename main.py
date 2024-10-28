@@ -2,8 +2,8 @@ import discord
 import aiohttp
 import json
 
-token = 'TOKEN'
-channel_id = CHANNEL ID
+token = "TOKEN"
+channel_id = "CHANNEL ID"
 aiurl = "http://localhost:11434/api/generate"
 
 intents = discord.Intents.default()
